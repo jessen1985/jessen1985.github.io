@@ -7,7 +7,7 @@ const mangayomiSources = [{
     "typeSource": "single",
     "itemType": 1,
     "isNsfw": false,
-    "version": "0.0.1",
+    "version": "0.0.2",
     "dateFormat": "",
     "dateFormatLocale": "",
     "pkgPath": "anime/src/zh/caoliuzyw.js"
@@ -140,8 +140,8 @@ class DefaultExtension extends MProvider {
             values: [
                 { type_name: "SelectOption", value: "", name: "全部" },
                 { type_name: "SelectOption", value: "46", name: "国产传媒" },
-                // { type_name: "SelectOption", value: "2", name: "电影" },
-                // { type_name: "SelectOption", value: "3", name: "欧美剧" },
+                { type_name: "SelectOption", value: "48", name: "女优合集" },
+                { type_name: "SelectOption", value: "54", name: "国产乱伦" },
                 // { type_name: "SelectOption", value: "4", name: "香港剧" },
                 // { type_name: "SelectOption", value: "5", name: "韩剧" },
                 // { type_name: "SelectOption", value: "6", name: "日剧" },
