@@ -1,5 +1,26 @@
 ﻿[
   {
+    "name": "奥斯卡资源站",
+    "id": 786033009,
+    "baseUrl": "https://aosikazy.com",
+    "lang": "zh",
+    "typeSource": "single",
+    "iconUrl": "https://aosikazy.com/template/m1938pc3/image/logo.gif",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://jessen1985.github.io/extensions/manga/aosikazy.js",
+    "apiUrl": "",
+    "version": "0.0.1",
+    "isManga": false,
+    "itemType": 1,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1
+  },
+  {
     "name": "草榴资源网",
     "id": 793972065,
     "baseUrl": "https://www.caoliuzyw.com",
