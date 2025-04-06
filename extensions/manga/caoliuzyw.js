@@ -7,7 +7,7 @@ const mangayomiSources = [{
     "typeSource": "single",
     "itemType": 1,
     "isNsfw": false,
-    "version": "0.0.3",
+    "version": "0.0.4",
     "dateFormat": "",
     "dateFormatLocale": "",
     "pkgPath": "anime/src/zh/caoliuzyw.js"
@@ -140,7 +140,6 @@ class DefaultExtension extends MProvider {
             values: [
                 { type_name: "SelectOption", value: "", name: "全部" },
                 { type_name: "SelectOption", value: "46", name: "国产传媒" },
-                { type_name: "SelectOption", value: "48", name: "女优合集" },
                 { type_name: "SelectOption", value: "54", name: "国产乱伦" },
                 { type_name: "SelectOption", value: "59", name: "国产探花" },
                 { type_name: "SelectOption", value: "24", name: "国产自拍" },
@@ -149,6 +148,10 @@ class DefaultExtension extends MProvider {
                 { type_name: "SelectOption", value: "4", name: "中文字幕" },
                 { type_name: "SelectOption", value: "21", name: "人妻熟女" },
                 { type_name: "SelectOption", value: "22", name: "强奸乱伦" },
+                { type_name: "SelectOption", value: "55", name: "网曝门事件" },
+                { type_name: "SelectOption", value: "56", name: "绿帽淫妻" },
+                { type_name: "SelectOption", value: "3", name: "欧美情色" },
+                { type_name: "SelectOption", value: "20", name: "美女主播" },
                 // { type_name: "SelectOption", value: "4", name: "香港剧" },
                 // { type_name: "SelectOption", value: "5", name: "韩剧" },
                 // { type_name: "SelectOption", value: "6", name: "日剧" },
