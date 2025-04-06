@@ -7,7 +7,7 @@ const mangayomiSources = [{
     "typeSource": "single",
     "itemType": 1,
     "isNsfw": false,
-    "version": "0.0.1",
+    "version": "0.0.2",
     "dateFormat": "",
     "dateFormatLocale": "",
     "pkgPath": "anime/src/zh/aosikazy.js"
@@ -158,8 +158,8 @@ class DefaultExtension extends MProvider {
                     "title": "Website Url",
                     "summary": "",
                     "valueIndex": 0,
-                    "entries": ["caoliuzyw.com"],
-                    "entryValues": ["https://www.caoliuzyw.com"],
+                    "entries": ["aosikazy.com"],
+                    "entryValues": ["https://aosikazy.com"],
                 }
             }
         ];
